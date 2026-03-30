@@ -52,6 +52,7 @@
 
 ---
 ## ✨ Animated Tech Stack
+## ✨ Animated Tech Stack
 
 <div align="center">
 
@@ -103,6 +104,7 @@
 <div align="center">
   <img width="100%" height="10" src="https://user-images.githubusercontent.com/74038190/212742190-5d815e51-4d80-4f36-b8e1-2d4fcf130787.gif"/>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
