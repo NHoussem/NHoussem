@@ -23,39 +23,32 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=2300&pause=700&color=FACC15&center=true&vCenter=true&width=920&lines=Auto-Entrepreneur+Developer;I+craft+premium+digital+experiences;MERN+%2B+FastAPI+%2B+Django+%2B+AI%2FML;Built+for+performance%2C+clarity%2C+and+scale)](https://github.com/NHoussem)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=2200&pause=700&color=FACC15&center=true&vCenter=true&width=980&lines=Auto-Entrepreneur+Developer;MERN+%7C+FastAPI+%7C+Django+%7C+AI%2FML;I+build+premium+products+that+scale)](https://github.com/NHoussem)
 
 </div>
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="left">
-
-### 💼 Profile
-- 🚀 **Dev & Auto-Entrepreneur**
-- 🧠 Building smart products with **AI/ML**
-- 🐳 Shipping production apps with **Docker**
-- ⚙️ Focused on **scalable architecture**
-- 🎯 Turning ideas into real business value
-
-### 🧩 Current Focus
-- High-performance full-stack apps (MERN)
-- Fast, secure APIs (FastAPI / Django)
-- Data + automation + intelligent features
-
-  </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NHoussem&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Architecture-111827?style=for-the-badge&logo=dependabot&logoColor=FACC15"/>
-  <img src="https://img.shields.io/badge/Focus-Performance-111827?style=for-the-badge&logo=speedtest&logoColor=FACC15"/>
-  <img src="https://img.shields.io/badge/Mindset-Ship%20Fast-111827?style=for-the-badge&logo=rocket&logoColor=FACC15"/>
+
+|  |  |
+|---|---|
+| 🧠 **Identity** | Dev & Auto-Entrepreneur |
+| 🚀 **What I Build** | Scalable full-stack products (MERN) |
+| ⚙️ **Backend** | FastAPI, Django, Redis |
+| 🤖 **AI/ML** | TensorFlow, PyTorch, Transformers, OpenCV |
+| 🐳 **Delivery** | Docker + clean deployment workflows |
+| 🎯 **Mission** | Turn ideas into fast, elegant, production-ready products |
+
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean-111827?style=for-the-badge&logo=codefactor&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Performance-First-111827?style=for-the-badge&logo=speedtest&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Delivery-Production_Ready-111827?style=for-the-badge&logo=docker&logoColor=FACC15"/>
+</div>
 ## 🧩 Animated Tech Stack
 
 <div align="center">
