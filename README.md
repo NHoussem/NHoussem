@@ -31,7 +31,6 @@
 
 <div align="center">
 
-|  |  |
 |---|---|
 | 🧠 **Identity** | Dev & Auto-Entrepreneur |
 | 🚀 **What I Build** | Scalable full-stack products (MERN) |
@@ -51,7 +50,6 @@
 </div>
 
 ---
-## ✨ Animated Tech Stack
 ## ✨ Animated Tech Stack
 
 <div align="center">
