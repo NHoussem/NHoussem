@@ -51,30 +51,58 @@
 </div>
 
 ---
-## 🧩 Animated Tech Stack
+## ✨ Animated Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,fastapi,django,redis,mongodb,mysql,postgres,docker,git,github,python,java,js,c&perline=9"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/spaCy-111827?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
-<img src="https://img.shields.io/badge/NLTK-111827?style=for-the-badge&logo=python&logoColor=E5E7EB"/>
-<img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=2000&pause=600&color=FACC15&center=true&vCenter=true&width=900&lines=My+Engineering+Arsenal;Crafted+for+Performance+%26+Scale;Luxury+Stack+for+Real+Products)](https://github.com/NHoussem)
 
 </div>
 
+<div align="center">
+  <img width="100%" height="10" src="https://user-images.githubusercontent.com/74038190/212742190-5d815e51-4d80-4f36-b8e1-2d4fcf130787.gif"/>
+</div>
+
+### 🖤 Core Web (MERN + Python Backends)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,fastapi,django,redis,mongodb,mysql,postgres,docker,git,github&theme=dark&perline=7" />
+</div>
+
+<br/>
+
+### 💻 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=FACC15"/>
+</div>
+
+<br/>
+
+### 🤖 AI / ML Suite
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/spaCy-111827?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
+  <img src="https://img.shields.io/badge/NLTK-111827?style=for-the-badge&logo=python&logoColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+</div>
+
+<br/>
+
+### 📊 Data, Visualization & Edge
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=python&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Cloudflare-0B1220?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+</div>
+
+<div align="center">
+  <img width="100%" height="10" src="https://user-images.githubusercontent.com/74038190/212742190-5d815e51-4d80-4f36-b8e1-2d4fcf130787.gif"/>
+</div>
 ---
 
 ## 📊 GitHub Stats
