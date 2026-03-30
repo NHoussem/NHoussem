@@ -1,4 +1,32 @@
 <!-- FINAL LUXURY ANIMATED README - FIXED -->
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: NHoussem
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          <div align="center"> <a href="https://github.com/NHoussem"> <img src="https://img.shields.io/badge/Follow-GitHub-0A0F1A?style=for-the-badge&logo=github&logoColor=F3F4F6"/> </a> <a href="https://www.linkedin.com/in/your-link/"> <img src="https://img.shields.io/badge/Message-LinkedIn-0A0F1A?style=for-the-badge&logo=linkedin&logoColor=C9A227"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-0A0F1A?style=for-the-badge&logo=gmail&logoColor=C9A227"/> </a> </div> <div align="center"> <img width="100%" height="12" src="https://user-images.githubusercontent.com/74038190/212742190-5d815e51-4d80-4f36-b8e1-2d4fcf130787.gif"/> <br/> <sub>Luxury engineering. Animated identity. Production mindset.</sub> </div> ```
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05060A,40:0B1220,70:111827,100:1F2937&text=NHOUSSEM&fontColor=F9FAFB&fontSize=68&fontAlignY=38&desc=Dev%20•%20Auto-Entrepreneur%20•%20MERN%20•%20FastAPI%20•%20Django%20•%20AI/ML&descAlignY=62&descSize=18&animation=twinkling"/>
@@ -95,33 +123,4 @@
   <img src="https://raw.githubusercontent.com/NHoussem/NHoussem/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-If it shows 404, add this workflow first:
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NHoussem
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          <div align="center"> <a href="https://github.com/NHoussem"> <img src="https://img.shields.io/badge/Follow-GitHub-0A0F1A?style=for-the-badge&logo=github&logoColor=F3F4F6"/> </a> <a href="https://www.linkedin.com/in/your-link/"> <img src="https://img.shields.io/badge/Message-LinkedIn-0A0F1A?style=for-the-badge&logo=linkedin&logoColor=C9A227"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-0A0F1A?style=for-the-badge&logo=gmail&logoColor=C9A227"/> </a> </div> <div align="center"> <img width="100%" height="12" src="https://user-images.githubusercontent.com/74038190/212742190-5d815e51-4d80-4f36-b8e1-2d4fcf130787.gif"/> <br/> <sub>Luxury engineering. Animated identity. Production mindset.</sub> </div> ```
