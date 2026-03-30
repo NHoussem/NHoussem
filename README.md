@@ -1,7 +1,7 @@
 <!-- LUXURY ANIMATED PROFILE README - FINAL (SNAKE FIXED TO MAIN/DIST) -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0F19,45:111827,100:1F2937&text=Houssem%20Nehdi&fontSize=58&fontColor=F9FAFB&fontAlignY=38&desc=Dev%20•%20Auto-Entrepreneur%20•%20MERN%20•%20FastAPI%20•%20Django%20•%20AI/ML&descAlignY=62&descSize=16&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0F19,45:111827,100:1F2937&text=Houssem%20NASRI&fontSize=58&fontColor=F9FAFB&fontAlignY=38&desc=Dev%20•%20Auto-Entrepreneur%20•%20MERN%20•%20FastAPI%20•%20Django%20•%20AI/ML&descAlignY=62&descSize=16&animation=twinkling"/>
 </div>
 
 <div align="center">
