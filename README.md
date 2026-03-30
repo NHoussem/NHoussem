@@ -22,15 +22,39 @@
 ## ⚡ About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=2400&pause=700&color=E5E7EB&center=true&vCenter=true&width=900&lines=Auto-Entrepreneur+Developer;I+build+premium+digital+products;Fast+delivery+with+clean+architecture;Performance+and+scalability+first"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=2300&pause=700&color=FACC15&center=true&vCenter=true&width=920&lines=Auto-Entrepreneur+Developer;I+craft+premium+digital+experiences;MERN+%2B+FastAPI+%2B+Django+%2B+AI%2FML;Built+for+performance%2C+clarity%2C+and+scale)](https://github.com/NHoussem)
+
 </div>
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+
+### 💼 Profile
+- 🚀 **Dev & Auto-Entrepreneur**
+- 🧠 Building smart products with **AI/ML**
+- 🐳 Shipping production apps with **Docker**
+- ⚙️ Focused on **scalable architecture**
+- 🎯 Turning ideas into real business value
+
+### 🧩 Current Focus
+- High-performance full-stack apps (MERN)
+- Fast, secure APIs (FastAPI / Django)
+- Data + automation + intelligent features
+
+  </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NHoussem&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  <img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+  <img src="https://img.shields.io/badge/Code-Architecture-111827?style=for-the-badge&logo=dependabot&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Focus-Performance-111827?style=for-the-badge&logo=speedtest&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Mindset-Ship%20Fast-111827?style=for-the-badge&logo=rocket&logoColor=FACC15"/>
 </div>
-
----
 
 ## 🧩 Animated Tech Stack
 
