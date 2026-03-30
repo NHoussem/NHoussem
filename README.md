@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Performance-First-111827?style=for-the-badge&logo=speedtest&logoColor=FACC15"/>
   <img src="https://img.shields.io/badge/Delivery-Production_Ready-111827?style=for-the-badge&logo=docker&logoColor=FACC15"/>
 </div>
+
+---
 ## 🧩 Animated Tech Stack
 
 <div align="center">
