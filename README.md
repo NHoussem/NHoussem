@@ -30,6 +30,7 @@
 <br/>
 
 <div align="center">
+  
 |  |  |
 |---|---|
 | 🧠 **Identity** | Dev & Auto-Entrepreneur |
